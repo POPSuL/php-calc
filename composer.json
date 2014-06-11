@@ -1,0 +1,17 @@
+{
+	"name": "popsul/calc",
+	"license": "BSD",
+	"authors": [
+		{
+			"name": "Viktor Suprun",
+			"email": "popsul1993@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+
+	},
+	"autoload": {
+		"psr-0": {"Popsul\\": "src/"}
+	}
+}
